@@ -6,15 +6,16 @@
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="jenkinsfile-common" type="Groovy" />
       <mapping ext="pipeline" type="Groovy" />
-      <mapping pattern="pgbouncer" type="PLAIN_TEXT" />
-      <mapping pattern="SampleAuthorizePaymentResponse" type="PLAIN_TEXT" />
-      <mapping pattern="DEPRECATED" type="PLAIN_TEXT" />
-      <mapping pattern="integration-bulkrequests.yaml" type="PLAIN_TEXT" />
+      <mapping pattern="ListingActions" type="JAVA" />
       <mapping pattern="BUILD" type="PLAIN_TEXT" />
-      <mapping pattern="crontab-celery" type="PLAIN_TEXT" />
-      <mapping pattern="OWNER" type="PLAIN_TEXT" />
-      <mapping pattern="outail" type="PLAIN_TEXT" />
       <mapping pattern="show_mesh" type="PLAIN_TEXT" />
+      <mapping pattern="outail" type="PLAIN_TEXT" />
+      <mapping pattern="SampleAuthorizePaymentResponse" type="PLAIN_TEXT" />
+      <mapping pattern="integration-bulkrequests.yaml" type="PLAIN_TEXT" />
+      <mapping pattern="OWNER" type="PLAIN_TEXT" />
+      <mapping pattern="DEPRECATED" type="PLAIN_TEXT" />
+      <mapping pattern="crontab-celery" type="PLAIN_TEXT" />
+      <mapping pattern="pgbouncer" type="PLAIN_TEXT" />
       <mapping ext="cfg" type="PLAIN_TEXT" />
       <mapping ext="avsc" type="PLAIN_TEXT" />
       <mapping ext="env" type="PLAIN_TEXT" />
