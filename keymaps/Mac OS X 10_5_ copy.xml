@@ -129,9 +129,10 @@
   </action>
   <action id="GotoDeclaration">
     <mouse-shortcut keystroke="meta button1" />
-    <mouse-shortcut keystroke="control button1" />
   </action>
-  <action id="GotoImplementation" />
+  <action id="GotoImplementation">
+    <mouse-shortcut keystroke="meta alt button1" />
+  </action>
   <action id="GotoLine">
     <keyboard-shortcut first-keystroke="meta l" />
     <keyboard-shortcut first-keystroke="ctrl l" />
